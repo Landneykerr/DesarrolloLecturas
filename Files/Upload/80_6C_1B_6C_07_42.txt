@@ -1,0 +1,1 @@
+636,2829073,-1,1,-1,-1,1,-1,-1,1,17,Macromedidor interno y desconectado del trasformador,-1,2016-01-07 17:04:09,0.0,0.0,1072

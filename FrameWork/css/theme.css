@@ -1,0 +1,63 @@
+/*body {
+  padding-top: 70px;
+  padding-bottom: 30px;
+}
+
+.theme-dropdown .dropdown-menu {
+  position: static;
+  display: block;
+  margin-bottom: 20px;
+}
+
+.theme-showcase > p > .btn {
+  margin: 5px 0;
+}
+
+.theme-showcase .navbar .container {
+  width: auto;
+}*/
+
+
+header{
+	background:#2c3e50;
+	color:#fff
+}
+
+
+.main{
+	background:#f2f2f2;
+}
+
+.color1{
+	background:#CFCAFA;
+	color:#fff
+}
+
+.menu_derecho{
+	background:#7177EB;
+	color:#000
+}
+
+.contenedor{
+	background:#c0392b;
+	color:#fff
+}
+
+aside{
+	background:#c0392b;
+	color:#fff
+}
+
+footer{
+	background:#16a085;
+	color:#fff
+}
+
+input:invalid {
+	border: 1px solid red;
+}
+
+/* Estilo por defecto */
+/*input:valid {
+   border: 1px solid green;
+}*/
